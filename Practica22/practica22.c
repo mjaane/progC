@@ -2,9 +2,9 @@
  *
  *@Proposito: Programa que organiza subastas, creandolas, actualizandolas y cerrandolas, ademas de mostrar su informacion, con la diferenacia
  *             que esta vez se tenia que hacer con memoria dinamica
- *@Autor: Josep Miquel Jane Riba
- *@Fecha creacion: 30/06/2024
- *@Fecha ultima modificacion: 09/06/2024
+ *@Autor: -----
+ *@Fecha creacion:----
+ *@Fecha ultima modificacion:----
  *
  ****************/
 //Bibliotecas del sistema

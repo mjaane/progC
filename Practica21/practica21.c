@@ -1,9 +1,9 @@
 /*****************
  *
  *@Proposito: Programa que organiza subastas, creandolas, actualizandolas y cerrandolas, ademas de mostrar su informacion.
- *@Autor: Josep Miquel Jane Riba
- *@Fecha creacion: 25/03/2024
- *@Fecha ultima modificacion: 06/04/2024
+ *@Autor: ----
+ *@Fecha creacion: ---
+ *@Fecha ultima modificacion: ---
  *
  ****************/
 //Bibliotecas del sistema
