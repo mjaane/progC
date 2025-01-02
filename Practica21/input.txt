@@ -1,0 +1,7 @@
+2 objects in auction
+Name: A Pair of Satsuma Vases
+Id: 234
+Initial price: 350.25 euros
+Name: Sadanand Bakre
+Id: 55626
+Initial price: 9732 euros
