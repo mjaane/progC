@@ -1,0 +1,16 @@
+5 objects in auction
+Name: A Pair of Satsuma Vases
+Id: 234
+Initial price: 350.25 euros
+Name: Sadanand Bakre
+Id: 55626
+Initial price: 9732 euros
+Name: An Italian Venus
+Id: 53
+Initial price: 2125.35 euros
+Name: Ganesh Haloi
+Id: 7
+Initial price: 2800 euros
+Name: Set of two silver desk objects 
+Id: 562
+Initial price: 1100.75 euros
